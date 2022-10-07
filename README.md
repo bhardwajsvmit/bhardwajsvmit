@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sumit Bhardwaj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhardwajsvmit" alt="bhardwajsvmit" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sumitbhardwaj_" target="blank"><img src="https://img.shields.io/twitter/follow/sumitbhardwaj_?logo=twitter&style=for-the-badge" alt="sumitbhardwaj_" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhardwajsvmit" alt="bhardwajsvmit" /></a> </p> -->
+<!-- 
+<p align="left"> <a href="https://twitter.com/sumitbhardwaj_" target="blank"><img src="https://img.shields.io/twitter/follow/sumitbhardwaj_?logo=twitter&style=for-the-badge" alt="sumitbhardwaj_" /></a> </p> -->
 
 - 🌱 I’m currently learning **Gatsby.js Next.js**
 
